@@ -37,7 +37,7 @@ int y = 150;
  	{
  	hi[i].show();
  	hi[i].move();
- 	System.out.println(i + ": "+hi[i].myX + " " + hi[i].myY);
+ 	
  	}
  	
  	
